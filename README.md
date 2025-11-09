@@ -14,8 +14,6 @@ Tech Stack
   MySQL — Event persistence and deduplication store
   Kubernetes (Minikube) — Container orchestration and scaling
 
-Docker — Containerization of all services
-
 ⚙️ Core Components
 
 🧩 1. WebSocket Listener & Publisher
